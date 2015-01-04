@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_menu_titles">
+        <item>News</item>
+        <item>Messages</item>
+        <item>Tasks</item>
+        <item>Groups</item>
+    </string-array>
+
+    <integer-array name="drawer_menu_icons">
+        <item>@drawable/ic_action_view_as_list</item>
+        <item>@drawable/ic_action_email</item>
+        <item>@drawable/ic_action_paste</item>
+        <item>@drawable/ic_action_group</item>
+    </integer-array>
+</resources>
