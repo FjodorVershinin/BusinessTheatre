@@ -1,0 +1,13 @@
+/*/build
+/*/libs
+/*/app.iml
+/*/proguard-rules.pro
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/app/build
+/app/libs/
+/.navigation
